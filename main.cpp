@@ -3,8 +3,10 @@
 using namespace std;
 
 int main(int argc, char **argv){
-  int arr[5]={1,2,3,4,5};
-  int size = *(&arr + 1) - arr;
-  cout<<size<<endl;
+  Sorting *s=new Sorting();
+  s->makeArrays();
+  s->insertionSort(s->insertArr);
+  s->bubbleSort(s->bubbleArr);
+  s->writeFiles();
  return 0;
 }

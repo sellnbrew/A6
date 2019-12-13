@@ -1,2 +1,20 @@
-# A6
-Sources: https://www.geeksforgeeks.org/how-to-find-size-of-array-in-cc-without-using-sizeof-operator/
+# A5
+
+Identifying Information:
+  Billy Ross
+  2324235
+  CPSC350-03
+  A6
+
+Source code file
+
+
+Known errors
+
+
+
+References:
+In class-bubbleSort and insertionSort
+
+Running instructions:
+make all
