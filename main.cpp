@@ -4,9 +4,6 @@ using namespace std;
 
 int main(int argc, char **argv){
   Sorting *s=new Sorting();
-  s->makeArrays();
-  s->insertionSort(s->insertArr);
-  s->bubbleSort(s->bubbleArr);
-  s->writeFiles();
+  s->sort();
  return 0;
 }

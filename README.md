@@ -16,5 +16,8 @@ Known errors
 References:
 In class-bubbleSort and insertionSort
 
+merge sort- https://www.geeksforgeeks.org/merge-sort/
+selection sort- https://www.geeksforgeeks.org/selection-sort/
+
 Running instructions:
 make all
