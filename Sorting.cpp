@@ -116,10 +116,8 @@ void Sorting::quickSort(double arr[], int start, int end){
 int Sorting::partition(double arr[], int start, int end){
     int pivot = arr[end];
     int i = (start - 1);
-    for (int j = start; j <= end - 1; j++)
-    {
-        if (arr[j] < pivot)
-        {
+    for (int j = start; j <= end - 1; j++){
+        if (arr[j] < pivot){
             i++;
             double temp = arr[i];
             arr[i]=arr[j];

@@ -18,6 +18,7 @@ In class-bubbleSort and insertionSort
 
 merge sort- https://www.geeksforgeeks.org/merge-sort/
 selection sort- https://www.geeksforgeeks.org/selection-sort/
+quickSort - https://www.geeksforgeeks.org/quick-sort/
 
 Running instructions:
 make all
